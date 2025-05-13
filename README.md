@@ -6,10 +6,15 @@ Instruções:
 O código exige o uso dos seguintes arquivos em formato Excel:
 
 1_regional.xlsx: Dados de mortalidade por região
+
 2_sexo.xlsx: Dados de mortalidade por sexo biológico
+
 3_faixa_etaria.xlsx: Dados de mortalidade por faixa etária
+
 4_cor.xlsx: Dados de mortalidade por cor/raça
+
 5_escolaridade.xlsx: Dados de mortalidade por nível de escolaridade
+
 6_estado_civil.xlsx: Dados de mortalidade por estado civil
 
 Passos para execução:
