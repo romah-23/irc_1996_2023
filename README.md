@@ -1,4 +1,4 @@
-# Mortalidade por Insuficiência Renal Crônica Aborto no Brasil (1996-2023)
+# Mortalidade por Insuficiência Renal Crônica no Brasil (1996-2023)
 
 EEste repositório contém o código em R para a análise temporal, regional e sociodemográfica da mortalidade por Insuficiência Renal Crônica (IRC) no Brasil entre 1996 e 2023.
 
